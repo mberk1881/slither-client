@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #111;
+}
+
+#game {
+  display: block;
+  margin: 0 auto;
+  background: #1c1c1c;
+  width: 100vw;
+  height: 100vh;
+}
